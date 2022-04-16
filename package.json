@@ -1,0 +1,23 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel src/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoBo/parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoBo/parcel/issues"
+  },
+  "homepage": "https://antobo.github.io/parcel/",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  }
+}
