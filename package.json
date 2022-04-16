@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "test": "parcel src/*.html"
   },
@@ -18,6 +19,8 @@
   },
   "homepage": "https://antobo.github.io/parcel/",
   "devDependencies": {
-    "parcel": "^2.4.1"
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1",
+    "sharp": "^0.29.3"
   }
 }
